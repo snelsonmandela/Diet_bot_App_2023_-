@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "387648119247",
+    "project_id": "dietbot-30cf0",
+    "storage_bucket": "dietbot-30cf0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:387648119247:android:714f3ebdebdcc448cd32ba",
+        "android_client_info": {
+          "package_name": "com.example.mybot"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8Olxt_f_1Vcf0fElCMHixnGKdVM3Os7k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
